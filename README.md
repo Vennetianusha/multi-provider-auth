@@ -38,27 +38,6 @@ This project is built as part of the **Partnr Network – Global Placement Progr
 
 ---
 
-## 📁 Project Structure
-
-.
-├── src
-│ ├── app.js
-│ ├── server.js
-│ ├── config
-│ ├── controllers
-│ ├── routes
-│ ├── middleware
-│ ├── services
-│ └── utils
-├── seeds
-│ ├── 001_init.sql
-│ └── 002_users.sql
-├── tests
-├── docker-compose.yml
-├── Dockerfile
-├── .env.example
-├── submission.json
-└── README.md
 
 
 ---
@@ -147,3 +126,4 @@ Role-Based Access Control (RBAC)
 
 🧑‍💻 Test Credentials
 Test users are defined in submission.json and seeded in the database.
+
